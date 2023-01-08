@@ -1,5 +1,5 @@
-Song Title;Artist;Lyrics;bpm;Push myself score;Have fun score;Stress relief score;Relax / focus score;Get motivated score
-Girls Just Want to Have Fun; Cyndi Lauper ;"I come home, in the morning light
+Ôªø;Song Title;Artist;Lyrics;bpm
+0;Girls Just Want to Have Fun; Cyndi Lauper ;"I come home, in the morning light
 My mother says ""When you gonna live your life right?""
 Oh momma dear, we?re not the fortunate ones
 And girls, they wanna have fun
@@ -65,8 +65,8 @@ Oh, when the working day is done (Oh, girls)
 (Girls just wanna have fun)
 Oh, girls
 Girls just wanna have fun
-(They just wanna, they just wanna)...";120;;;;;
-I Got You (I Feel Good);James Brown;"Wow, I feel good
+(They just wanna, they just wanna)...";120
+1;I Got You (I Feel Good);James Brown;"Wow, I feel good
 I knew that I would now
 I feel good
 I knew that I would now
@@ -109,8 +109,8 @@ So good, so good, 'cause I got you
 
 So good, so good, 'cause I got you
 So good, so good, ?cause I got you
-Hey";143;;;;;
-Don't Stop Me Now;Queen;"Tonight I?m gonna have myself a real good time
+Hey";143
+2;Don't Stop Me Now;Queen;"Tonight I?m gonna have myself a real good time
 I feel alive
 And the world I'll turn it inside out, yeah
 I?m floating around in ecstasy
@@ -180,8 +180,8 @@ Da, da, ah, ah
 Ah, da, da, ah, ah, ah
 Ah, da, da
 Ah, da, da, ah, ah
-Ooh, ooh-ooh, ooh-ooh";156;;;;;
-Good as Hell;Lizzo;"I do my hair toss, check my nails
+Ooh, ooh-ooh, ooh-ooh";156
+3;Good as Hell;Lizzo;"I do my hair toss, check my nails
 Baby how you feeling? (Feeling good as hell)
 Hair toss, check my nails
 Baby how you feeling? (Feeling good as hell)
@@ -233,8 +233,8 @@ Baby how you feeling? (Feeling good as hell)
 Hair toss, check my nails
 Baby how you feeling? (Feeling good as hell)
 (Feeling good as hell)
-Baby how you feeling? (Feeling good as hell)";96;;;;;
-Walking on Sunshine;Katrina and the Waves;"Ow
+Baby how you feeling? (Feeling good as hell)";96
+4;Walking on Sunshine;Katrina and the Waves;"Ow
 Mm, yeah
 
 I used to think maybe you loved me
@@ -318,8 +318,8 @@ Oh, yeah, oh, yeah, oh, yeah
 And don?t it feel good
 Oh, yeah, yeah, yeah
 Oh, yeah, oh, yeah
-And don't it feel good";110;;;;;
-Tubthumping;Chumbawamba;"(We?ll be singing, when we're winning, we?ll be singing)
+And don't it feel good";110
+5;Tubthumping;Chumbawamba;"(We?ll be singing, when we're winning, we?ll be singing)
 
 I get knocked, down but I get up again
 You're never gonna keep me down
@@ -407,8 +407,8 @@ But I get up again (pissing the night away)
 You?re never gonna keep me down (when we're winning)
 I get knocked down, (we'll be singing)
 But I get up again (pissing the night away)
-You?re never gonna keep me down (ooh)";207;;;;;
-We Will Rock You;Queen;"Buddy, you?re a boy, make a big noise
+You?re never gonna keep me down (ooh)";207
+6;We Will Rock You;Queen;"Buddy, you?re a boy, make a big noise
 Playing in the street, gonna be a big man someday
 You got mud on your face, you big disgrace
 Kicking your can all over the place, singin'
@@ -438,8 +438,8 @@ Everybody
 We will, we will rock you
 Hmm
 We will, we will rock you
-Alright";81;;;;;
-Song 2;Blur;"Wooooo hoooo
+Alright";81
+7;Song 2;Blur;"Wooooo hoooo
 Wooooo hoooo
 Wooooo hoooo
 Wooooo hoooo
@@ -481,8 +481,8 @@ Pleased to meet you
 Yeah, yeah
 Yeah, yeah
 Yeah, yeah
-Oh, yeah";130;;;;;
-Remember the Name;Fort Minor;"You ready?
+Oh, yeah";130
+8;Remember the Name;Fort Minor;"You ready?
 
 Let?s go!
 
@@ -576,8 +576,8 @@ Yeah!
 Fort Minor, M. Shinoda
 Styles of Beyond
 Ryu, Takbir
-Machine Shop!";85;;;;;
-Can't Hold Us;Macklemore & Ryan Lewis;"Ay, ay, ay
+Machine Shop!";85
+9;Can't Hold Us;Macklemore & Ryan Lewis;"Ay, ay, ay
 Good to see you
 Come on in, let?s go
 
@@ -601,7 +601,7 @@ My posse?s been on Broadway, and we did it our way, grown music
 I shed my skin and put my bones into everything I record to it
 And yet I'm on
 
-†
+¬†
 
 Let that stage light go and shine on down
 Got that Bob Barker suit game and Plinko in my style
@@ -684,8 +684,8 @@ Like the ceiling can't hold us
 Can we go back? This is the moment
 Tonight is the night, we?ll fight till it's over
 So we put our hands up like the ceiling can?t hold us
-Like the ceiling can't hold us";146;;;;;
-I Will Survive;Gloria Gaynor;"At first I was afraid, I was petrified
+Like the ceiling can't hold us";146
+10;I Will Survive;Gloria Gaynor;"At first I was afraid, I was petrified
 Kept thinkin? I could never live without you by my side
 But then I spent so many nights thinking how you did me wrong
 And I grew strong
@@ -752,8 +752,8 @@ I've got all my life to live
 I?ve got all my love to give
 And I?ll survive
 I will survive
-I will survive";117;;;;;
-The Final Countdown ;Europe;"We?re leaving together
+I will survive";117
+11;The Final Countdown ;Europe;"We?re leaving together
 But still it's farewell
 And maybe we?ll come back
 To earth, who can tell?
@@ -792,8 +792,8 @@ We'll all miss her so
 It?s the final countdown
 (The final countdown)
 Ohh, it?s the final countdown
-Yea";118;;;;;
-Flashdance... WhatÖ;Irene Cara;"First when there?s nothing
+Yea";118
+12;Flashdance... What¬Ö;Irene Cara;"First when there?s nothing
 But a slow glowing dream
 That your fear seems to hide
 Deep inside your mind
@@ -844,8 +844,8 @@ Being's believing (take your passion)
 (Make it happen) make it happen
 (What a feeling) what a feeling
 (Being?s believing) happen
-(Take your passion)";129;;;;;
-Eye of the Tiger;Survivor;"Rising up, back on the street
+(Take your passion)";129
+13;Eye of the Tiger;Survivor;"Rising up, back on the street
 Did my time, took my chances
 Went the distance, now I?m back on my feet
 Just a man and his will to survive
@@ -892,8 +892,8 @@ The eye of the tiger
 
 The eye of the tiger
 
-The eye of the tiger";109;;;;;
-Feel So Close;Calvin Harris;"I feel so close to you right now, it?s a force field
+The eye of the tiger";109
+14;Feel So Close;Calvin Harris;"I feel so close to you right now, it?s a force field
 I wear my heart upon my sleeve like a big deal
 Your love pours down on me
 Surrounds me like a waterfall
@@ -913,8 +913,8 @@ And there's no stopping us right now
 And there?s no stopping us right now
 And there?s no stopping us right now
 
-I feel so close to you right now";128;;;;;
-Turn Up the Music;Chris Brown;"Turn up the music ?cause this song just came on
+I feel so close to you right now";128
+15;Turn Up the Music;Chris Brown;"Turn up the music ?cause this song just came on
 Turn up the music if they try to turn us down
 Turn up the music, can I hear it 'til the speakers blow?
 Turn up the music, fill your cup and drink it down
@@ -1001,8 +1001,8 @@ Turn it up, just dance with me (Hahaha)
 Turn it up, just dance with me
 Turn it up, just dance with me
 T-T-Turn it up
-Don't stop the music";130;;;;;
-Club Can't Handle Me;Flo Rida, David Guetta;"You know I know how
+Don't stop the music";130
+16;Club Can't Handle Me;Flo Rida, David Guetta;"You know I know how
 To make ?em stop and stare as I zone out
 The club can't even handle me right now
 Watchin? you watchin' me, I go all out
@@ -1096,14 +1096,14 @@ The club can't even handle me right now
 (Put your hands up)
 (Let?s celebrate now)
 (Put your hands up)
-(You know who shut it down)";128;;;;;
-Rain in Ibiza;Felix Jaehn, The Stickmen Project, Calum Scott;"What?s your name? Nice to meet you
-Por favor seÒorita
+(You know who shut it down)";128
+17;Rain in Ibiza;Felix Jaehn, The Stickmen Project, Calum Scott;"What?s your name? Nice to meet you
+Por favor se√±orita
 You're the rarest of creatures
 Like the rain in Ibiza
 
 What?s your name? Nice to meet you
-Por favor seÒorita
+Por favor se√±orita
 You're the rarest of creatures
 Like the rain in Ibiza (in Ibiza)
 
@@ -1111,7 +1111,7 @@ In Ibiza
 Like the rain in Ibiza (in Ibiza)
 
 What's your name? Nice to meet you
-Por favor seÒorita
+Por favor se√±orita
 You?re the rarest of creatures
 Like the rain in Ibiza
 
@@ -1122,20 +1122,20 @@ Never felt so close but at the same time far away
 We?re so different and yet so familiar
 
 So what's your name? Nice to meet you
-Por favor seÒorita
+Por favor se√±orita
 You?re the rarest of creatures
 Like the rain in Ibiza (in Ibiza)
 
 What's your name? Nice to meet you
-Por favor seÒorita
+Por favor se√±orita
 You?re the rarest of creatures
 Like the rain in Ibiza (in Ibiza)
 
 What's your name?
 
 You're the rarest of creatures
-Like the rain in Ibiza";124;;;;;
-Believer;Imagine Dragons;"First things first, I?ma say all the words inside my head
+Like the rain in Ibiza";124
+18;Believer;Imagine Dragons;"First things first, I?ma say all the words inside my head
 I'm fired up, and tired of the way that things have been, oh-ooh
 The way that things have been, oh-ooh
 Second thing second, don?t you tell me what you think that I can be
@@ -1203,8 +1203,8 @@ Pain!
 Oh, let the bullets fly, oh, let them rain
 My life, my love, my drive it came from
 Pain!
-You made me a, you made me a believer, believer";125;;;;;
-Mama Said;Lukas Graham;"When Mama said that it was okay
+You made me a, you made me a believer, believer";125
+19;Mama Said;Lukas Graham;"When Mama said that it was okay
 Mama said that it was quite alright
 Our kind of people had a bed for the night
 And it was okay
@@ -1280,8 +1280,8 @@ And Mama said that it was okay
 Ba-ba-da, ba-ba-da, ba-ba
 Ba-ba-da, ba-ba-da, ba-ba
 Ba-ba-da, ba-ba-da, ba-ba
-And Mama said that it was okay";84;;;;;
-2U;David Guetta, Justin Biber;"No limit in the sky
+And Mama said that it was okay";84
+20;2U;David Guetta, Justin Biber;"No limit in the sky
 That I won?t fly for ya (for ya, for ya, for ya)
 No amount of tears in my eyes
 That I won't cry for ya (for ya), oh no
@@ -1336,8 +1336,8 @@ When it comes to you
 Don?t be blind
 Watch me speak from my heart
 When it comes to you
-Comes to you (you, you, you, you, you, you, you, you)";145;;;;;
-Not Afraid;Eminem;"Yeah, It's been a ride...
+Comes to you (you, you, you, you, you, you, you, you)";145
+21;Not Afraid;Eminem;"Yeah, It's been a ride...
 I guess I had to go to that place to get to this one
 Now some of you might still be in that place
 If you're trying to get out, just follow me
@@ -1424,8 +1424,8 @@ Everybody come take my hand
 We'll walk this road together, through the storm
 Whatever weather, cold or warm
 Just let you know that, you're not alone
-Holla if you feel that you've been down the same road";81;;;;;
-Dance With Somebody;Mando Diao;"Break your happy home
+Holla if you feel that you've been down the same road";81
+22;Dance With Somebody;Mando Diao;"Break your happy home
 Learn to sing alone
 To the music, to the music
 Clap your hands and shake
@@ -1493,8 +1493,8 @@ Dance with somebody
 Dance, dance, dance
 Keep dancing
 Are you ready to be played
-Played, played?";123;;;;;
-On the Floor;Jennifer Lopez, Pitbull;"J-Lo, ya t˙ sabes, no es m·s nada
+Played, played?";123
+23;On the Floor;Jennifer Lopez, Pitbull;"J-Lo, ya t√∫ sabes, no es m√°s nada
 
 It?s a new generation
 Mr. Worldwide
@@ -1535,7 +1535,7 @@ Live your life and stay young on the floor
 Dance the night away
 Grab somebody, drink a little more
 
-(AsÌ mismo, asÌ me gusta, asÌ me gusta, asÌ me gusta)
+(As√≠ mismo, as√≠ me gusta, as√≠ me gusta, as√≠ me gusta)
 
 La la la la la la la la la la la la la la
 Tonight we gon' be it on the floor
@@ -1559,7 +1559,7 @@ Dance the night away
 Live your life and stay young on the floor
 Dance the night away
 Grab somebody, drink a little more
-(Dale, asÌ me gusta, asÌ me gusta, asÌ me gusta)
+(Dale, as√≠ me gusta, as√≠ me gusta, as√≠ me gusta)
 
 La la la la la la la la la la la la la la
 Tonight we gon' be it on the floor
@@ -1598,8 +1598,8 @@ Tonight we gon? be it on the floor
 La la la la la la la la la la la la la la
 Tonight we gon' be it on the floor
 Tonight we gon? be it on the floor
-Tonight we gon' be it on the floor";130;;;;;
-Blinding Lights;The Weekend;"Yeah
+Tonight we gon' be it on the floor";130
+24;Blinding Lights;The Weekend;"Yeah
 
 I?ve been tryna call
 I've been on my own for long enough
@@ -1644,8 +1644,8 @@ No, I can?t sleep until I feel your touch
 (Hey, hey, hey)
 
 I said, ooh, I'm blinded by the lights
-No, I can?t sleep until I feel your touch";171;;;;;
-Pon de Replay;Rihanna;"Come, Mr. DJ, song pon de replay
+No, I can?t sleep until I feel your touch";171
+25;Pon de Replay;Rihanna;"Come, Mr. DJ, song pon de replay
 Come, Mr. DJ, won't you turn the music up?
 All the gyal pon the dancefloor wantin' some more what
 Come, Mr. DJ, won't you turn the music up?
@@ -1748,8 +1748,8 @@ Come, Mr. DJ, won't you turn the music up?
 Come, Mr. DJ, song pon de replay (Hey Mr. DJ, boy)
 Hey Mr. DJ, won't you turn the music up?
 All the gyal pon the dancefloor wantin' some more what
-Come, Mr. DJ, won't you turn the music up?";99;;;;;
-Since U Been Gone;Kelly Clarkson;"Here?s the thing, we started out friends
+Come, Mr. DJ, won't you turn the music up?";99
+26;Since U Been Gone;Kelly Clarkson;"Here?s the thing, we started out friends
 It was cool, but it was all pretend
 Yeah, yeah
 Since you been gone
@@ -1807,8 +1807,8 @@ That I get, I get what I want
 
 Since you been gone
 Since you been gone
-Since you been gone";131;;;;;
-Pump It;Black Eyed Peas;"Pump it.
+Since you been gone";131
+27;Pump It;Black Eyed Peas;"Pump it.
 And Pump it louder.
 Pump it louder.
 Pump it louder.
@@ -1930,8 +1930,8 @@ And say, oh oh oh oh
 Say, oh oh oh oh
 Yo yo, turn up the radio
 Blast your stereo right now
-This joint is fizzlin' it's sizzlin? right.";154;;;;;
-Circus;Britney Spears;"There?s only two types of people in the world:
+This joint is fizzlin' it's sizzlin? right.";154
+28;Circus;Britney Spears;"There?s only two types of people in the world:
 The ones that entertain, and the ones that observe
 Well, baby, I'm a put on-a-show kind of girl
 Don?t like the back seat, gotta be first
@@ -1986,8 +1986,8 @@ Everybody let go, we can make a dance floor just like a circus
 All eyes on me in the center of the ring just like a circus
 When I crack that whipv everybody gon' trip just like a circus
 Don?t stand there watching me, follow me, show me what you can do
-Everybody let go, we can make a dance floor just like a circus";115;;;;;
-Locked out of Heaven;Bruno Mars;"Oh, yeah, yeah
+Everybody let go, we can make a dance floor just like a circus";115
+29;Locked out of Heaven;Bruno Mars;"Oh, yeah, yeah
 Oh, yeah, yeah, yeah, yeah
 Oh, yeah, yeah
 Oh, yeah, yeah, yeah, yeah
@@ -2023,8 +2023,8 @@ And it shows, yeah...
 (For too long, for too long)
 (Yeah, you make me feel like)
 (I?ve been locked out of heaven)
-(For too long, for too long)";144;;;;;
-I need A Doctor;Dr. Dre, Eminem, Skylar Grey;"I?m about to lose my mind
+(For too long, for too long)";144
+30;I need A Doctor;Dr. Dre, Eminem, Skylar Grey;"I?m about to lose my mind
 You've been gone for so long
 I?m runnin' out of time
 I need a doctor, call me a doctor
@@ -2123,8 +2123,8 @@ You?ve been gone for so long
 I'm runnin' out of time
 I need a doctor, call me a doctor
 I need a doctor, doctor
-To bring me back to life";156;;;;;
-Adventure of a Lifetime;Coldplay;"Turn your magic on
+To bring me back to life";156
+31;Adventure of a Lifetime;Coldplay;"Turn your magic on
 Umi she?d say
 Everything you want's a dream away
 And we are legends every day
@@ -2191,8 +2191,8 @@ Ooh
 Ooh
 Ooh
 Ooh
-Ooh";112;;;;;
-Power;Kanye West;"I?m living in that 21st Century, doing something mean to it
+Ooh";112
+32;Power;Kanye West;"I?m living in that 21st Century, doing something mean to it
 Do it better than anybody you ever seen do it
 Screams from the haters, got a nice ring to it
 I guess every superhero need his theme music
@@ -2281,8 +2281,8 @@ I'm jumping out the window, I'm letting everything go
 Letting everything go
 You got the power to let power go?
 
-(21st-Century schizoid man)";154;;;;;
-Crazy;Gnarls Barkley;"I remember when
+(21st-Century schizoid man)";154
+33;Crazy;Gnarls Barkley;"I remember when
 I remember, I remember when I lost my mind
 There was something so pleasant about that place
 Even your emotions have an echo in so much space
@@ -2321,8 +2321,8 @@ And I can die when I?m done
 But maybe I'm crazy
 Maybe you?re crazy
 Maybe we're crazy
-Probably";112;;;;;
-Lady - Hear Me Tonight;Modjo;"Lady
+Probably";112
+34;Lady - Hear Me Tonight;Modjo;"Lady
 Hear me tonight
 ?Cause my feeling
 Is just so right
@@ -2388,8 +2388,8 @@ For the first time
 Lady
 Hear me tonight
 Can?t you see
-You're my delight";126;;;;;
-Calabria 2007;Enur, Natasja;"Easy now no need fi(as in for) go down,
+You're my delight";126
+35;Calabria 2007;Enur, Natasja;"Easy now no need fi(as in for) go down,
 Easy now no need fi go down,
 Rock that run that, this where we from
 (Repeat 2x)
@@ -2447,8 +2447,8 @@ Whoop Whoop
 When you run come around,
 Cu(z) I kno ur the talk of the town yea
 (Repeat 8x)
-Whooop Whooop!";126;;;;;
-Roses;SAINt JHN, Imanbek;"Roses
+Whooop Whooop!";126
+36;Roses;SAINt JHN, Imanbek;"Roses
 I walked in the corner with the body screaming dolo
 Never sold a bag but look like Pablo in a photo
 This gon? make 'em feel the way like Tony killed Manolo
@@ -2472,7 +2472,7 @@ Roses
 I might pull up flexing on these niggas like aerobics
 I might tell your girl you cute but balling
 And that shit gorgeous
-Standing on the table, RosÈ, RosÈ, fuck the waters
+Standing on the table, Ros√©, Ros√©, fuck the waters
 You know who the god is
 
 Turn up baby, turn up, when I turn it on
@@ -2507,7 +2507,7 @@ Roses
 I might pull up flexing on these niggas like aerobics
 I might tell your girl you cute but balling
 And that shit gorgeous
-Standing on the table, RosÈ, RosÈ, fuck the waters
+Standing on the table, Ros√©, Ros√©, fuck the waters
 You know who the god is
 
 Turn up baby, turn up, when I turn it on
@@ -2515,8 +2515,8 @@ You know how I get too lit when I turn it on
 Can't handle my behavior when I turn it on
 Too fast never ask, life don?t last
 Done been through it all
-Fuck with a nigga raw, show you what I mean";122;;;;;
-Unstoppable;Sia;"All smiles, I know what it takes to fool this town
+Fuck with a nigga raw, show you what I mean";122
+37;Unstoppable;Sia;"All smiles, I know what it takes to fool this town
 I?ll do it 'til the sun goes down and all through the night time
 Oh yeah
 Oh yeah, I?ll tell you what you wanna hear
@@ -2589,8 +2589,8 @@ I?m unstoppable today
 Unstoppable today
 Unstoppable today
 Unstoppable today
-I?m unstoppable today";174;;;;;
-This Love;Maroon 5;"I was so high I did not recognize
+I?m unstoppable today";174
+38;This Love;Maroon 5;"I was so high I did not recognize
 The fire burning in her eyes
 The chaos that controlled my mind
 Whispered goodbye as she got on a plane
@@ -2644,8 +2644,8 @@ She said goodbye too many times before
 And her heart is breakin' in front of me
 And I have no choice, ?cause I won't say goodbye anymore
 
-This love";95;;;;;
-Whatever It Takes;Imagine Dragons;"Falling too fast to prepare for this
+This love";95
+39;Whatever It Takes;Imagine Dragons;"Falling too fast to prepare for this
 Tripping in the world could be dangerous
 Everybody circling, it's vulturous
 Negative, nepotist
@@ -2715,8 +2715,8 @@ Whatever it takes
 Yeah, take me to the top, I'm ready for
 Whatever it takes
 'Cause I love the adrenaline in my veins
-I do what it takes";135;;;;;
-Bills;LunchMoney Lewis;"I got bills I gotta pay
+I do what it takes";135
+40;Bills;LunchMoney Lewis;"I got bills I gotta pay
 So I?m gon' work, work, work every day
 I got mouths I gotta feed,
 So I?m gon' make sure everybody eats
@@ -2781,8 +2781,8 @@ I got bills.
 
 (Mama got bills! Yo? daddy got bills! Yo' sister got bills! Yo? auntie got bills!)
 I got bills.
-(Yo' Uncle got bills! Everybody got bills! Everybody got bills!)";126;;;;;
-Pump It Up;Endor;"Pump it up
+(Yo' Uncle got bills! Everybody got bills! Everybody got bills!)";126
+41;Pump It Up;Endor;"Pump it up
 You got to pump it up
 Don?t you know, pump it up
 You got to pump it up
@@ -2843,8 +2843,8 @@ You got to pump it up
 Don't you know, pump it up
 You got to pump it up
 Don't you know, pump it up
-You got to pump it up";129;;;;;
-Chandelier;Sia ;"Party girls don't get hurt
+You got to pump it up";129
+42;Chandelier;Sia ;"Party girls don't get hurt
 Can't feel anything, when will I learn?
 I push it down, I push it down
 I'm the one for a ""good time call""
@@ -2901,8 +2901,8 @@ On for tonight, on for tonight
 'Cause I'm just holding on for tonight
 'Cause I'm just holding on for tonight
 Oh, I'm just holding on for tonight
-On for tonight, on for tonight";87;;;;;
-Mr. Brightside;The Killers;"I?m coming out of my cage and I've been doing just fine
+On for tonight, on for tonight";87
+43;Mr. Brightside;The Killers;"I?m coming out of my cage and I've been doing just fine
 Gotta, gotta be down because I want it all
 It started out with a kiss, how did it end up like this?
 It was only a kiss, it was only a kiss
@@ -2948,8 +2948,8 @@ Open up my eager eyes, 'cause I?m Mr. Brightside
 I never
 I never
 I never
-I never";148;;;;;
-Glad You Came;The Wanted;"The sun goes down, the stars come out
+I never";148
+44;Glad You Came;The Wanted;"The sun goes down, the stars come out
 And all that counts is here and now
 My universe will never be the same
 I?m glad you came (Came, came, came)
@@ -3010,8 +3010,8 @@ The sun goes down, the stars come out
 And all that counts is here and now
 My universe will never be the same
 I?m glad you came
-I'm glad you came";127;;;;;
-Something Just Like This;The Chainsmokers, Coldplay;"I?ve been reading books of old
+I'm glad you came";127
+45;Something Just Like This;The Chainsmokers, Coldplay;"I?ve been reading books of old
 The legends and the myths
 Achilles and his gold
 Hercules and his gifts
@@ -3076,8 +3076,8 @@ Oh, I want something just like this
 
 Oh, I want something just like this
 
-Oh, I want something just like this";103;;;;;
-Paradise;Coldplay;"Ooh-ooh-ooh, ooh-ooh-ooh, ooh-ooh-ooh
+Oh, I want something just like this";103
+46;Paradise;Coldplay;"Ooh-ooh-ooh, ooh-ooh-ooh, ooh-ooh-ooh
 Ooh-ooh-ooh, ooh-ooh-ooh, ooh-ooh-ooh
 
 When she was just a girl
@@ -3139,8 +3139,8 @@ Oh-oh-oh-oh, oh-oh-oh-oh
 Ooh-ooh-ooh, ooh-ooh-ooh, ooh-ooh-ooh
 Ooh-ooh-ooh, ooh-ooh-ooh, ooh-ooh-ooh
 Ooh-ooh-ooh, ooh-ooh-ooh, ooh-ooh-ooh
-Ooh-ooh-ooh-ooh";140;;;;;
-sun keeps on shining;almost monday;"Yeah, I hopped up on my bike for a cruise around the town
+Ooh-ooh-ooh-ooh";140
+47;sun keeps on shining;almost monday;"Yeah, I hopped up on my bike for a cruise around the town
 When I saw a cute couple, they were sitting, making out
 My girlfriend has that jacket, so I stopped and turned around like
 (Ah) I?m sad now
@@ -3185,8 +3185,8 @@ But the sun keeps on shinin?, woo
 Alright, the sun keeps on shinin', yeah
 It keeps on shinin', baby
 Yeah, the sun, the sun, the sun
-Keeps on shinin?";88;;;;;
-Budapest;George Ezra;"My house in Budapest, my
+Keeps on shinin?";88
+48;Budapest;George Ezra;"My house in Budapest, my
 My hidden treasure chest
 Golden grand piano
 My beautiful Castillo
@@ -3272,8 +3272,8 @@ I'd leave it all
 
 You
 You
-I'd leave it all";128;;;;;
-Orphans;Coldplay;"Rosaleem of the Damascene
+I'd leave it all";128
+49;Orphans;Coldplay;"Rosaleem of the Damascene
 Yes, she had eyes like the moon
 Would have been on the silver screen
 But for the missile monsoon
@@ -3322,8 +3322,8 @@ I guess we'll be raised on our own, then
 I want to be with you ?til the world ends
 I want to be with you 'til the whole world ends
 
-Boom";108;;;;;
-Sunshine;OneRepublic;"Runnin' through this strange life
+Boom";108
+50;Sunshine;OneRepublic;"Runnin' through this strange life
 Chasin' all them green lights
 Throwin' up the shade for a little bit of sunshine
 Hit me with them good vibes
@@ -3388,8 +3388,8 @@ Chasin' all them green lights
 Throwin' up the shade for a little bit of sunshine (yeah)
 Woo Woo
 A little bit of sunshine
-A little bit of sunshine";140;;;;;
-Synchronize;Milky Chance;"Smoke in the sky got me feeling so blue
+A little bit of sunshine";140
+51;Synchronize;Milky Chance;"Smoke in the sky got me feeling so blue
 Burning down the city while I?m here with you
 Smoke in the sky and I'm holding you tight
 Because
@@ -3442,8 +3442,8 @@ Don?t think twice (don't think twice)
 (I love the way we synchronize)
 (I love the way)
 (I love the way we synch ronize)
-(Don't think twice)";124;;;;;
-Up In Her Mind;Henry And The Waiter;"She has always been so sorry for herself
+(Don't think twice)";124
+52;Up In Her Mind;Henry And The Waiter;"She has always been so sorry for herself
 You've been always that worried about her health
 'Til you left her all alone in her dark cocoon
 On a Sunday afternoon, she got called from the Moon, ooh (yeah)
@@ -3487,8 +3487,8 @@ She's up in her, up in her mind, oh, up in her mind
 She's up in her, up in her mind, oh, up in her mind
 She's up in her, up in her mind, oh, up in her mind
 She's up in her, up in her mind, oh, up in her mind
-She's up in her, up in her mind, oh, up in her-";110;;;;;
-Part of Me;Noah Kahan;"I think I forgot the things I?ve done
+She's up in her, up in her mind, oh, up in her-";110
+53;Part of Me;Noah Kahan;"I think I forgot the things I?ve done
 It's just good to be alive
 And I could stand great before the sun
 Though it?s getting in my eyes
@@ -3558,8 +3558,8 @@ Even through the pain, I can?t recall your face
 Just the ache of knowing everything was gonna change
 I got so close to love with you, my dear
 I don't miss you
-I miss the way you made me feel";110;;;;;
-Following the Sun;SUPER-Hi, NEEKA;"Maybe I don?t wanna know
+I miss the way you made me feel";110
+54;Following the Sun;SUPER-Hi, NEEKA;"Maybe I don?t wanna know
 The way home
 Taking on a journey
 I've got places to go
@@ -3627,8 +3627,8 @@ Following the sun
 You can lean on...
 You can lean on me
 You can lean on...
-You can lean on me";127;;;;;
-Serotonin;Tom Walker;"My father told me
+You can lean on me";127
+55;Serotonin;Tom Walker;"My father told me
 ""Can?t wake up happy everyday
 Can't have the sun without the rain
 Can?t have the moments where you're truly on top of the world
@@ -3693,8 +3693,8 @@ Now I?ve found your love, I'm coming up again
 Like serotonin, serotonin
 
 Like serotonin, serotonin
-Like serotonin";164;;;;;
-Beat It;Michael Jackson;"Beat It Lyrics[Verse 1]
+Like serotonin";164
+56;Beat It;Michael Jackson;"Beat It Lyrics[Verse 1]
 They told him, ""Don't you ever come around here
 Don't wanna see your face, you better disappear""
 The fire's in their eyes and their words are really clear
@@ -3755,8 +3755,8 @@ No one wants to be defeated
 Showin' how funky and strong is your fight
 It doesn't matter who's wrong or right (Who's right)
 Just beat it, beat it, beat it, beat it (Hoo-hoo!)
-No one wants to be defeated89Embed";139;;;;;
-Everytime We Touch;Cascada;"Everytime We Touch Lyrics[Verse 1]
+No one wants to be defeated89Embed";139
+57;Everytime We Touch;Cascada;"Everytime We Touch Lyrics[Verse 1]
 I still hear your voice when you sleep next to me
 I still feel your touch in my dream (In my dream)
 Forgive me, my weakness, but I don't know why
@@ -3795,8 +3795,8 @@ Want you in my life
 'Cause every time we touch, I get this feeling
 And every time we kiss, I swear I could fly
 Can't you feel my heart beat fast? I want this to last
-Need you by my sideYou might also like31Embed";142;;;;;
-Life Is Good;Future;"Translations???????PortuguÍsFranÁaisLife Is Good Lyrics[Part I]
+Need you by my sideYou might also like31Embed";142
+58;Life Is Good;Future;"Translations???????Portugu√™sFran√ßaisLife Is Good Lyrics[Part I]
 
 [Chorus: Drake]
 Workin' on a weekend like usual
@@ -3886,8 +3886,8 @@ I was in the trap servin' cocaine, I ain't been the same since, woo
 Hunnid thousand for the cheapest ring on a nigga finger, lil' bitch
 Hunnid thousand for the cheapest ring on a nigga finger, lil' bitch, yeah
 Hunnid thousand for the cheapest ring on a nigga finger, lil' bitch, uh
-Hunnid thousand for the cheapest ring on a nigga finger, lil' bitch105Embed";142;;;;;
-For Reasons Unknown;The Killers;"For Reasons Unknown Lyrics[Verse 1]
+Hunnid thousand for the cheapest ring on a nigga finger, lil' bitch105Embed";142
+59;For Reasons Unknown;The Killers;"For Reasons Unknown Lyrics[Verse 1]
 I pack my case. I check my face
 I look a little bit older
 I look a little bit colder
@@ -3898,11 +3898,11 @@ For reasons unknown
 [Verse 2]
 I caught my stride
 I flew and flied
-I know if destinyís kind, Iíve got the rest of my mind
-But my heart, it donít beat, it donít beat the way it used to
-And my eyes, they donít see you no more
-And my lips, they donít kiss, they donít kiss the way they used to
-And my eyes donít recognize you no more
+I know if destiny¬ís kind, I¬íve got the rest of my mind
+But my heart, it don¬ít beat, it don¬ít beat the way it used to
+And my eyes, they don¬ít see you no more
+And my lips, they don¬ít kiss, they don¬ít kiss the way they used to
+And my eyes don¬ít recognize you no more
 [Chorus]
 For reasons unknown
 For reasons unknown
@@ -3910,27 +3910,27 @@ For reasons unknown
 [Verse 3]
 There was an open chair
 We sat down in the open chair
-I said if destinyís kind, Iíve got the rest of my mind
-But my heart, it donít beat, it donít beat the way it used to
-And my eyes, they donít see you no more
-And my lips, they donít kiss, they donít kiss the way they used to
-And my eyes donít recognize you at all
+I said if destiny¬ís kind, I¬íve got the rest of my mind
+But my heart, it don¬ít beat, it don¬ít beat the way it used to
+And my eyes, they don¬ít see you no more
+And my lips, they don¬ít kiss, they don¬ít kiss the way they used to
+And my eyes don¬ít recognize you at all
 
 [Chorus]
 For reasons unknown
 For reasons unknown
 
 [Bridge]
-I said my heart, it donít beat, it donít beat the way it used to and my eyes donít recognize you no more
-And my lips, they donít kiss, they donít kiss the way they used to
-And my eyes donít recognize you no more
+I said my heart, it don¬ít beat, it don¬ít beat the way it used to and my eyes don¬ít recognize you no more
+And my lips, they don¬ít kiss, they don¬ít kiss the way they used to
+And my eyes don¬ít recognize you no more
 
 [Outro]
 For reasons unknown
 For reasons unknown
 For reasons unknown
-For reasons unknownYou might also like7Embed";140;;;;;
-Bleed It Out;Linkin Park;"TranslationsPortuguÍsLinkin Park - Bleed It Out (Traduzione Italiana)Bleed It Out Lyrics[Verse 1: Mike Shinoda]
+For reasons unknownYou might also like7Embed";140
+60;Bleed It Out;Linkin Park;"TranslationsPortugu√™sLinkin Park - Bleed It Out (Traduzione Italiana)Bleed It Out Lyrics[Verse 1: Mike Shinoda]
 Yeah, here we go for the hundredth time
 Hand grenade pins in every line
 Throw 'em up and let something shine
@@ -3997,8 +3997,8 @@ Just to throw it away, just to throw it away
 [Outro: Chester Bennington]
 I bleed it out
 I bleed it out
-I bleed it out55Embed";140;;;;;
-Happy;Pharrell Williams;"TranslationsPortuguÍs????????FranÁaisHappy Lyrics[Produced by Pharrell Williams]
+I bleed it out55Embed";140
+61;Happy;Pharrell Williams;"TranslationsPortugu√™s????????Fran√ßaisHappy Lyrics[Produced by Pharrell Williams]
 
 [Verse 1]
 It might seem crazy what I'm 'bout to say
@@ -4019,7 +4019,7 @@ Clap along if you feel like that's what you wanna do
 Here come bad news, talking this and that (Yeah!)
 Well, give me all you got, don't hold it back (Yeah!)
 Well, I should probably warn ya, I'll be just fine (Yeah!)
-No offense to you, donít waste your time, here's why
+No offense to you, don¬ít waste your time, here's why
 
 [Chorus]
 (Because I'm happy)
@@ -4079,8 +4079,8 @@ Clap along if you feel like happiness is the truth
 (Because I'm happy)
 Clap along if you know what happiness is to you
 (Because I'm happy)
-Clap along if you feel like that's what you wanna do (Come on)883Embed";160;;;;;
-Vegas;Doja Cat;"TranslationsT¸rkÁeVegas Lyrics[Intro: Shonka Dukureh]
+Clap along if you feel like that's what you wanna do (Come on)883Embed";160
+62;Vegas;Doja Cat;"TranslationsT√ºrk√ßeVegas Lyrics[Intro: Shonka Dukureh]
 Yeah, ah, get it
 Yeah, ah, get it
 Yeah, yeah, ah, get it
@@ -4161,8 +4161,8 @@ Yeah, ah, get it
 Yeah, yeah, ah, get it
 Yeah, ah, get it
 Yeah, yeah, ah, get it
-Yeah, you ain't nothin' but a10Embed";160;;;;;
-One Way Or Another;Blondie;"One Way or Another Lyrics[Instrumental Intro]
+Yeah, you ain't nothin' but a10Embed";160
+63;One Way Or Another;Blondie;"One Way or Another Lyrics[Instrumental Intro]
 
 [Verse 1]
 One way or another, I'm going to find ya
@@ -4227,8 +4227,8 @@ I'll get ya, I'll get ya, get ya, get ya, get ya
 One way or another I'm gonna get ya
 (Where I can see it all, find out who you call)
 I'll get ya, I'll get ya, get ya, get ya, get ya
-One way or another I'm gonna get ya10Embed";162;;;;;
-Sugar, We're Goin Down;Fall Out Boy;"TranslationsEnglishSugar, Weíre Goiní Down Lyrics[Verse 1]
+One way or another I'm gonna get ya10Embed";162
+64;Sugar, We're Goin Down;Fall Out Boy;"TranslationsEnglishSugar, We¬íre Goin¬í Down Lyrics[Verse 1]
 Am I more than you bargained for yet?
 I've been dying to tell you
 Anything you want to hear
@@ -4294,8 +4294,8 @@ A loaded God complex, cock it and pull it
 We're going down, down in an earlier round (Take aim at myself)
 And sugar, we're going down swinging (Take back what you said)
 I'll be your number one with a bullet (Take aim at myself)
-A loaded God complex, cock it and pull it118Embed";162;;;;;
-Paint It, Black;The Rolling Stones;"Paint It, Black Lyrics[Verse 1]
+A loaded God complex, cock it and pull it118Embed";162
+65;Paint It, Black;The Rolling Stones;"Paint It, Black Lyrics[Verse 1]
 I see a red door and I want it painted black
 No colours anymore, I want them to turn black
 I see the girls walk by dressed in their summer clothes
@@ -4329,8 +4329,8 @@ I wanna see your face, painted black
 Black as night, black as coal
 I wanna see the sun blotted out from the sky
 I wanna see it painted, painted, painted, painted black
-YeahYou might also like85Embed";159;;;;;
-Feel Again;OneRepublic;"Feel Again Lyrics[Verse 1]
+YeahYou might also like85Embed";159
+66;Feel Again;OneRepublic;"Feel Again Lyrics[Verse 1]
 It's been a long time coming since I've seen your face
 I've been everywhere and back trying to replace
 Everything that I had 'til my feet went numb
@@ -4390,8 +4390,8 @@ I was a lonely soul, but that's the old me
 I'm feeling better ever since you know me
 I was a lonely soul, but that's the old me
 A little wiser now from what you've shown me
-I feel again, feel again31Embed";140;;;;;
-Say Someting;A Great Big World;"TranslationsPortuguÍsSay Something Lyrics[Intro: A Great Big World]
+I feel again, feel again31Embed";140
+67;Say Someting;A Great Big World;"TranslationsPortugu√™sSay Something Lyrics[Intro: A Great Big World]
 Say something, I'm giving up on you
 I'll be the one if you want me to
 Anywhere, I would've followed you
@@ -4425,8 +4425,8 @@ Say something, I'm giving up on you
 
 [Outro: A Great Big World & Christina Aguilera]
 Say something, I'm giving up on you
-Say something...You might also like374Embed";141;;;;;
-A Thousand Years;Christina Perry;"Translations????????A Thousand Years Lyrics[Verse 1]
+Say something...You might also like374Embed";141
+68;A Thousand Years;Christina Perry;"TranslationsŒïŒªŒªŒ∑ŒΩŒπŒ∫Œ¨A Thousand Years Lyrics[Verse 1]
 Heart beats fast
 Colors and promises
 How to be brave?
@@ -4478,8 +4478,8 @@ I'll love you for a thousand more
 And all along I believed I would find you
 Time has brought your heart to me
 I have loved you for a thousand years
-I'll love you for a thousand more145Embed";139;;;;;
-Snow Patrol;New York;"New York Lyrics[Verse 1]
+I'll love you for a thousand more145Embed";139
+69;Snow Patrol;New York;"New York Lyrics[Verse 1]
 If you were here beside me
 Instead of in New York
 If the curve of you was curved on me
@@ -4529,8 +4529,8 @@ And the lack of it snaps me in two
 Just give me a sign, there's an end with a beginning
 To the quiet chaos driving me back
 The lone neon lights and the warmth of the ocean
-And the fire that has started to go out4Embed";138;;;;;
-Imagine Dragons;Radioactive;"TranslationsPortuguÍsRadioactive Lyrics[Intro]
+And the fire that has started to go out4Embed";138
+70;Imagine Dragons;Radioactive;"TranslationsPortugu√™sRadioactive Lyrics[Intro]
 Whoa, oh-oh
 Whoa, oh-oh
 Whoa, oh-oh
@@ -4595,8 +4595,8 @@ Welcome to the new age, to the new age
 Whoa-oh, whoa
 I'm radioactive, radioactive
 Whoa-oh, whoa
-I'm radioactive, radioactive325Embed";136;;;;;
-Coldplay;Viva La Vida;"Translations??????T¸rkÁeEspaÒolPortuguÍsDeutschFranÁaisViva la Vida Lyrics[Verse 1: Chris Martin]
+I'm radioactive, radioactive325Embed";136
+71;Coldplay;Viva La Vida;"Translations‡§π‡§ø‡§®‡•ç‡§¶‡•ÄT√ºrk√ßeEspa√±olPortugu√™sDeutschFran√ßaisViva la Vida Lyrics[Verse 1: Chris Martin]
 I used to rule the world
 Seas would rise when I gave the word
 Now in the morning, I sleep alone
@@ -4669,8 +4669,8 @@ But that was when I ruled the world
 [Outro]
 Mmm, mmm, mmm, mmm
 Mmm, mmm, mmm, mmm
-Mmm, mmm236Embed";138;;;;;
-We're Good;Dua Lipa;"TranslationsT¸rkÁeEspaÒol???????PortuguÍsPolski???ItalianoDeutschFranÁaisWeíre Good Lyrics[Verse 1]
+Mmm, mmm236Embed";138
+72;We're Good;Dua Lipa;"TranslationsT√ºrk√ßeEspa√±ol–†—É—Å—Å–∫–∏–πPortugu√™sPolskiÊó•Êú¨Ë™ûItalianoDeutschFran√ßaisWe‚Äôre Good Lyrics[Verse 1]
 I'm on an island, even when you're close
 Can't take the silence, I'd rather be alone
 
@@ -4713,8 +4713,8 @@ So let's at least agree to go our separate ways
 (To go our separate ways, oh)
 Not gonna judge you when you're with somebody else
 As long as you swear you won't be pissed when I do it myself
-Let's end it like we should and say we're goodYou might also like48Embed";134;;;;;
-Worth it;Fifth Harmony;"TranslationsLietuvi?PortuguÍsEnglishFranÁaisWorth It Lyrics[Chorus: Camila & Normani]
+Let's end it like we should and say we're goodYou might also like48Embed";134
+73;Worth it;Fifth Harmony;"TranslationsLietuvi≈≥Portugu√™sEnglishFran√ßaisWorth It Lyrics[Chorus: Camila & Normani]
 Give it to me, I'm worth it
 Baby, I'm worth it
 Uh-huh, I'm worth it
@@ -4808,8 +4808,8 @@ Give it to me, I'm worth it (Know what I mean?)
 Baby, I'm worth it (Give me everything)
 Uh-huh, I'm worth it
 Gimme, gimme, I'm worth it
-Give it to me, I'm worth it112Embed";100;;;;;
-What's My Name?;Rihanna;"TranslationsEspaÒolPortuguÍsEnglishWhatís My Name? Lyrics[Refrain: Rihanna & Drake]
+Give it to me, I'm worth it112Embed";100
+74;What's My Name?;Rihanna;"TranslationsEspa√±olPortugu√™sEnglishWhat‚Äôs My Name? Lyrics[Refrain: Rihanna & Drake]
 Oh na-na, what's my name?
 Oh na-na, what's my name?
 Oh na-na, what's my name?
@@ -4924,8 +4924,8 @@ Hey, boy, I really wanna be with you
 Ooh, na, na, na, na
 I need a boy to take it over
 Lookin' for a guy to put in work
-Oh woah, oh woah61Embed";100;;;;;
-Hips Don't Lie;Shakira;"Hips Donít Lie Lyrics[Intro: Wyclef Jean]
+Oh woah, oh woah61Embed";100
+75;Hips Don't Lie;Shakira;"Hips Don‚Äôt Lie Lyrics[Intro: Wyclef Jean]
 Ladies up in here tonight
 No fighting (We got the refugees up in here)
 No fighting
@@ -4935,11 +4935,11 @@ Shakira, Shakira
 [Pre-Chorus: Wyclef Jean & Shakira]
 I never really knew that she could dance like this (Hey)
 She make a man wanna speak Spanish
-øCÛmo se llama (SÌ!), bonita? (SÌ!)
+¬øC√≥mo se llama (S√≠!), bonita? (S√≠!)
 Mi casa, su casa (Shakira, Shakira)
 Oh baby, when you talk like that (Huh-uh) (Yeah)
 You make a woman go mad (Oh)
-So be wise (SÌ!) and keep on (SÌ!)
+So be wise (S√≠!) and keep on (S√≠!)
 Reading the signs of my body (Uno, dos, tres, cuatro)
 No fighting
 [Chorus: Shakira  & Wyclef Jean]
@@ -4962,11 +4962,11 @@ So you can keep on shaking it (Let's go)
 [Pre-Chorus: Wyclef Jean & Shakira]
 I never really knew that she could dance like this (Hey)
 She make a man wanna speak Spanish
-øCÛmo se llama (SÌ!), bonita? (SÌ!)
+¬øC√≥mo se llama (S√≠!), bonita? (S√≠!)
 Mi casa, su casa (Shakira, Shakira)
 Oh baby, when you talk like that (Huh-uh) (Oh)
 You make a woman go mad (So bad) (Oh)
-So be wise (SÌ!) and keep on (SÌ!)
+So be wise (S√≠!) and keep on (S√≠!)
 Reading the signs of my body
 No fighting
 You might also like[Chorus: Shakira  & Wyclef Jean]
@@ -4974,7 +4974,7 @@ I'm on tonight
 You know my hips don't lie (No fighting)
 And I'm starting to feel you, boy (Yeah)
 Come on, let's go, real slow
-Don't you see, baby? AsÌ es perfecto
+Don't you see, baby? As√≠ es perfecto
 They know I'm on tonight (Yeah)
 My hips don't lie
 And I'm starting to feel it's right
@@ -4993,25 +4993,25 @@ That's a bit too hard to explain (Uno, dos, tres, cuatro)
 
 [Bridge: Wyclef Jean with Shakira]
 Baila en la calle de noche (Uh, yeah)
-Baila en la calle de dÌa (Let's go!)
+Baila en la calle de d√≠a (Let's go!)
 Baila en la calle de noche (Uh, yeah)
-Baila en la calle de dÌa (Let's go!)
+Baila en la calle de d√≠a (Let's go!)
 [Pre-Chorus: Wyclef Jean & Shakira]
 I never really knew that she could dance like this (Hey)
 She make a man wanna speak Spanish (Yeah)
-øCÛmo se llama (SÌ!), bonita? (SÌ!)
+¬øC√≥mo se llama (S√≠!), bonita? (S√≠!)
 Mi casa, su casa (Shakira, Shakira)
 Oh baby, when you talk like that (Huh-uh) (Oh)
 You know you got me hypnotized (Oh)
-So be wise (SÌ! Uh) and keep on (SÌ! Uh)
+So be wise (S√≠! Uh) and keep on (S√≠! Uh)
 Reading the signs of my body (Yeah)
 
 [Refrain: Wyclef Jean & Shakira]
-SeÒorita, feel the conga
+Se√±orita, feel the conga
 Let me see you move like you come from Colombia
-Yeah, oh, yeah, ladies, sÌ! (Yeah, yeah, hey, yeah)
-Mira, en Barranquilla se baila asÌ, say it! (Yeah)
-En Barranquilla se baila asÌ (Yeah)
+Yeah, oh, yeah, ladies, s√≠! (Yeah, yeah, hey, yeah)
+Mira, en Barranquilla se baila as√≠, say it! (Yeah)
+En Barranquilla se baila as√≠ (Yeah)
 
 [Verse 3: Wyclef Jean with Shakira]
 Yeah, she's so sexy, every man's fantasy
@@ -5038,8 +5038,8 @@ Baby, like this is perfection
 
 [Outro: Wyclef Jean & Shakira]
 No fighting
-No fighting82Embed";100;;;;;
-Linkin Park;Given Up;"TranslationsPortuguÍsItalianoGiven Up Lyrics[Verse 1: Chester Bennington]
+No fighting82Embed";100
+76;Linkin Park;Given Up;"TranslationsPortugu√™sItalianoGiven Up Lyrics[Verse 1: Chester Bennington]
 Wake in a sweat again
 Another day's been laid to waste, in my disgrace
 Stuck in my head again
@@ -5079,16 +5079,16 @@ Put me out of my fucking misery!
 I've given up, I'm sick of feeling
 Is there nothing you can say?
 Take this all away, I'm suffocating
-Tell me what the fuck is wrong with meYou might also like36Embed";100;;;;;
-Love Me Harder;Ariana Grande;"TranslationsFranÁaisLove Me Harder Lyrics[Verse 1: Ariana Grande]
+Tell me what the fuck is wrong with meYou might also like36Embed";100
+77;Love Me Harder;Ariana Grande;"TranslationsFran√ßaisLove Me Harder Lyrics[Verse 1: Ariana Grande]
 Tell me something I need to know
 Then take my breath and never let it go
 If you just let me invade your space
-Iíll take the pleasure, take it with the pain
+I‚Äôll take the pleasure, take it with the pain
 
 [Pre-Chorus: Ariana Grande]
 And if in the moment, I bite my lip
-Baby, in that moment, youíll know this is
+Baby, in that moment, you‚Äôll know this is
 Something bigger than us and beyond bliss
 Give me a reason to believe it
 [Chorus: Ariana Grande]
@@ -5113,7 +5113,7 @@ Then take this pleasure and take it with the pain
 And if in the moment you bite your lip
 When I get you moaning, you know it's real
 Can you feel the pressure between your hips?
-Iíll make it feel like the first time
+I‚Äôll make it feel like the first time
 
 [Chorus: Ariana Grande, The Weeknd]
 'Cause if you want to keep me
@@ -5131,10 +5131,10 @@ Love me, love me, love me
 Ooh-ooh-ooh-ooh
 Harder, harder, harder (You gotta love me harder)
 You might also like[Bridge: The Weeknd, Ariana Grande]
-So what do I do if I canít figure it out? (Figure it out)
+So what do I do if I can‚Äôt figure it out? (Figure it out)
 You got to try, try, try again, yeah (Oh whoa)
-So what do I do if I canít figure it out? (Figure it out)
-Iím gonna leave, leave, leave again
+So what do I do if I can‚Äôt figure it out? (Figure it out)
+I‚Äôm gonna leave, leave, leave again
 
 [Chorus: Ariana Grande, The Weeknd, Both]
 'Cause if you want to keep me (Hey!)
@@ -5158,8 +5158,8 @@ Harder, harder, harder (Boy, you gotta love me, love me, baby)
 Ooh-ooh-ooh-ooh
 Love me, love me, love me (Just a little bit harder, harder, baby)
 Ooh-ooh-ooh-ooh
-Harder, harder, harder527Embed";99;;;;;
-Alejandro;Lady Gaga;"TranslationsEspaÒolAlejandro Lyrics[Intro]
+Harder, harder, harder527Embed";99
+78;Alejandro;Lady Gaga;"TranslationsEspa√±olAlejandro Lyrics[Intro]
 I know that we are young, and I know that you may love me
 But I just can't be with you like this anymore
 Alejandro...
@@ -5241,8 +5241,8 @@ Ale-Alejandro, Ale-Alejandro
 Ale-Alejandro, Ale-Alejandro (Just smoke my cigarette and hush)
 (Don't call my name, don't call my name) Alejandro, Alejandro
 Ale-Alejandro, Ale-Alejandro (Roberto)
-Alejandro34Embed";99;;;;;
-IN MY REMAINS;Linkin Park;"IN MY REMAINS Lyrics[Verse 1: Chester Bennington]
+Alejandro34Embed";99
+79;IN MY REMAINS;Linkin Park;"IN MY REMAINS Lyrics[Verse 1: Chester Bennington]
 Separate
 Sifting through the wreckage, I can't concentrate
 Searching for a message in that fear and pain
@@ -5281,8 +5281,8 @@ To wash away the worst of me (One by one by one)
 Like an army falling (One by one, one by one)
 One by one by one (One by one by one)
 Like an army falling (One by one, one by one)
-One by one by oneYou might also like15Embed";101;;;;;
-Bitch Better Have My Money;Rihanna;"TranslationsEnglishPortuguÍsBitch Better Have My Money Lyrics[Intro]
+One by one by oneYou might also like15Embed";101
+80;Bitch Better Have My Money;Rihanna;"TranslationsEnglishPortugu√™sBitch Better Have My Money Lyrics[Intro]
 Yayo, yayo
 Mula-la
 Yayo
@@ -5351,8 +5351,8 @@ Hold up
 My money
 Yo, my money
 That bitch better have my money
-Bitch better have my money780Embed";103;;;;;
-Want U Back;Cher Lloyd;"TranslationsEspaÒolWant U Back Lyrics[Intro]
+Bitch better have my money780Embed";103
+81;Want U Back;Cher Lloyd;"TranslationsEspa√±olWant U Back Lyrics[Intro]
 Uh!
 Mmm, yeah
 La-la-la-la-la-ah (Ha-ha)
@@ -5446,8 +5446,8 @@ Wan-want you, want you back, yeah (Uh!), yeah
 (Ooh-ooh-ooh) Ha, ha-ha-ha-ha-ha-ha-a
 I want you back, I want you back
 Wan-want you, want you back (Uh!)
-Just sound like a helicopter, ""Brrr""26Embed";98;;;;;
-We Don't Talk Anymore;Charlie Puth;"TranslationsT¸rkÁePortuguÍs????????EestiWe Donít Talk Anymore Lyrics[Chorus: Charlie Puth]
+Just sound like a helicopter, ""Brrr""26Embed";98
+82;We Don't Talk Anymore;Charlie Puth;"TranslationsT√ºrk√ßePortugu√™sŒïŒªŒªŒ∑ŒΩŒπŒ∫Œ¨EestiWe Don‚Äôt Talk Anymore Lyrics[Chorus: Charlie Puth]
 We don't talk anymore, we don't talk anymore
 We don't talk anymore, like we used to do
 We don't laugh anymore
@@ -5533,8 +5533,8 @@ We don't talk anymore, oh, woah
 (I overdosed, should've known your love was a game)
 (Now I can't get you outta my brain)
 Oh, it's such a shame
-That we don't talk anymore72Embed";100;;;;;
-Focus;Ariana Grande;"TranslationsEspaÒolPortuguÍsFranÁaisFocus Lyrics[Verse 1]
+That we don't talk anymore72Embed";100
+83;Focus;Ariana Grande;"TranslationsEspa√±olPortugu√™sFran√ßaisFocus Lyrics[Verse 1]
 Hey
 I know what I came to do
 And that ain't gonna change
@@ -5595,8 +5595,8 @@ Focus on me (Yeah, yeah, yeah, yeah) (Focus), f-f-focus on me, woo (Yeah, no) (F
 Focus on me (Yeah, yeah, yeah, yeah), f-f-focus on me (Focus on me), woo
 Focus on me (Ooh, yeah) (Yeah, yeah, yeah, yeah), f-f-focus on me (Focus on me, oh), woo
 Focus on me (Yeah, yeah, yeah, yeah) (Focus), f-f-focus on me, woo (Focus on me)
-Focus on me (Yeah, yeah, yeah, yeah) (Focus), f-f-focus on me, woo (Focus on me) (Focus on me, babe)80Embed";100;;;;;
-Happier;Marshmello;"TranslationsEspaÒol??? / Phasa Thai????????????Happier Lyrics[Intro: Bastille]
+Focus on me (Yeah, yeah, yeah, yeah) (Focus), f-f-focus on me, woo (Focus on me) (Focus on me, babe)80Embed";100
+84;Happier;Marshmello;"TranslationsEspa√±ol‡πÑ‡∏ó‡∏¢ / Phasa Thai–†—É—Å—Å–∫–∏–πŸÅÿßÿ±ÿ≥€åHappier Lyrics[Intro: Bastille]
 Lately, I've been, I've been thinking
 I want you to be happier, I want you to be happier
 
@@ -5668,8 +5668,8 @@ Lately, I've been, I've been thinking
 I want you to be happier, I want you to be happier
 [Outro: Bastille]
 So I'll go, I'll go
-I will go, go, go356Embed";100;;;;;
-Lush Life;Zara Larsson;"TranslationsEspaÒolLush Life Lyrics[Chorus]
+I will go, go, go356Embed";100
+85;Lush Life;Zara Larsson;"TranslationsEspa√±olLush Life Lyrics[Chorus]
 I live my day as if it was the last
 Live my day as if there was no past
 Doin' it all night, all summer
@@ -5752,8 +5752,8 @@ Second time is one too late
 Now I've found another crush
 The lush life's given me a rush
 Had one chance to make me blush
-Second time is one too late53Embed";98;;;;;
-Mika;Popular Song;"TranslationsEspaÒolPortuguÍsMIKA - Popular Song (Single Version) (ft. Ariana Grande) (Traduction FranÁaise)Popular Song (Single Version) Lyrics[Intro: Ariana Grande]
+Second time is one too late53Embed";98
+86;Mika;Popular Song;"TranslationsEspa√±olPortugu√™sMIKA - Popular Song (Single Version) (ft. Ariana Grande) (Traduction Fran√ßaise)Popular Song (Single Version) Lyrics[Intro: Ariana Grande]
 La-la, la-la
 
 [Verse 1: Ariana Grande, MIKA & Both]
@@ -5829,8 +5829,8 @@ You're only ever who you were (That's all you ever need to know)
 Popular, I know about popular (That's all you ever need to know)
 And all that you have to do is be true to you
 That's all you ever need to know
-That's all you ever need to know32Embed";99;;;;;
-Team;Lorde;"TranslationsItalianoPortuguÍsTeam Lyrics[Intro]
+That's all you ever need to know32Embed";99
+87;Team;Lorde;"TranslationsItalianoPortugu√™sTeam Lyrics[Intro]
 Wait till you're announced
 We've not yet lost all our graces
 The hounds will stay in chains
@@ -5897,8 +5897,8 @@ And you know, we're on each other's team
 We're on each other's team
 And you know, we're on each other's team
 We're on each other's team
-And you know, and you know, and you know330Embed";100;;;;;
-Starving;Hailee Steinfeld;"Starving Lyrics[Verse 1]
+And you know, and you know, and you know330Embed";100
+88;Starving;Hailee Steinfeld;"Starving Lyrics[Verse 1]
 You know just what to say, things that scare me
 I should just walk away, but I can't move my feet
 The more that I know you, the more I want to
@@ -5941,8 +5941,8 @@ I didn't know 'til I tasted you
 [Outro]
 The more that I know you, the more that I want to
 Somethin' inside me's changed
-I was so much younger yesterdayYou might also like43Embed";100;;;;;
-Shallow;Lady Gaga;"
+I was so much younger yesterdayYou might also like43Embed";100
+89;Shallow;Lady Gaga;"TranslationsEspa√±olPortugu√™sItalianoFran√ßaisNederlandsŒïŒªŒªŒ∑ŒΩŒπŒ∫Œ¨–†—É—Å—Å–∫–∏–πShallow Lyrics[Verse 1: Bradley Cooper]
 Tell me somethin', girl
 Are you happy in this modern world?
 Or do you need more?
@@ -5990,4 +5990,4 @@ We're far from the shallow now
 In the sha-ha, shallow
 In the sha-ha, sha-la-la-la-low
 In the sha-ha, shallow
-We're far from the shallow now361Embed";96;;;;;
+We're far from the shallow now361Embed";96
